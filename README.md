@@ -45,13 +45,58 @@ At Novo Precision, I'm designing an interconnected suite of manufacturing intell
 - TCoE Outstanding Graduate Student Award in Data Science (2026)
 - 1st Place, Graduate Engineering Projects Showcase
 - Best Paper, AICTA'23
-- Finalist, Anthropic Fellows Program (Adversarial Robustness & AI Control)
 
 ---
 
 ### 🧰 Tech I Work With
 
-`Python` · `PyTorch` · `scikit-learn` · `Flask` · `OPC-UA` · `STM32` · `React` · `SQL` · `Computer Vision` · `RAG Systems` · `Voice AI Pipelines`
+**Languages & Core**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+**AI / ML**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-6E56CF?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG%20Systems-6E56CF?style=flat-square" />
+<img src="https://img.shields.io/badge/Voice%20AI-6E56CF?style=flat-square" />
+</p>
+
+**Systems & Hardware**
+<p>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/OPC--UA-004B87?style=flat-square" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+**Tools**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shrutibrahma&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutibrahma&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutibrahma&hide_border=true" />
+</p>
 
 ---
 
