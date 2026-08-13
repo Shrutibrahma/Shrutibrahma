@@ -45,34 +45,67 @@ At Novo Precision, I'm designing an interconnected suite of manufacturing intell
 - TCoE Outstanding Graduate Student Award in Data Science (2026)
 - 1st Place, Graduate Engineering Projects Showcase
 - Best Paper, AICTA'23
+- Finalist, Anthropic Fellows Program (Adversarial Robustness & AI Control)
 
 ---
 
 ### 🧰 Tech I Work With
 
-Languages
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> </p>
+**AI / ML**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-6E56CF?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG%20Systems-6E56CF?style=flat-square" />
+</p>
 
-AI / ML
+**Voice AI & Telephony**
+<p>
+<img src="https://img.shields.io/badge/Pipecat-6E56CF?style=flat-square" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Sarvam%20AI-6E56CF?style=flat-square" />
+</p>
 
-<p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Computer%20Vision-6E56CF?style=flat-square" /> <img src="https://img.shields.io/badge/RAG%20Systems-6E56CF?style=flat-square" /> </p>
+**Blockchain / Web3**
+<p>
+<img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/TEE-black?style=flat-square" />
+</p>
 
-Voice AI & Telephony
+**Systems & Hardware**
+<p>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/FDCAN-004B87?style=flat-square" />
+<img src="https://img.shields.io/badge/OPC--UA-004B87?style=flat-square" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
 
-<p> <img src="https://img.shields.io/badge/Pipecat-6E56CF?style=flat-square" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Sarvam%20AI-6E56CF?style=flat-square" /> </p>
+**Cloud & Infra**
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
 
-Blockchain / Web3
-
-<p> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/TEE-black?style=flat-square" /> </p>
-
-Systems & Hardware
-
-<p> <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" /> <img src="https://img.shields.io/badge/FDCAN-004B87?style=flat-square" /> <img src="https://img.shields.io/badge/OPC--UA-004B87?style=flat-square" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> </p>
-
-Cloud & Infra
-
-<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> </p>
 ---
 
 ### 📊 GitHub Stats
