@@ -96,6 +96,10 @@ At Novo Precision, I'm designing an interconnected suite of manufacturing intell
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
+**AR / VR**
+
+<p> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Vuzix%20Smart%20Glasses-6E56CF?style=flat-square" /> <img src="https://img.shields.io/badge/AR%20Navigation-6E56CF?style=flat-square" /> </p>
+
 **Cloud & Infra**
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
